@@ -1,9 +1,9 @@
 ## Olá, me chamo Leonardo Aragão 😄
 ### Seja bem vindo(a) ao meu perfil 👋
 
+- 🎯 Meu objetivo é me tornar um desenvolvedor Full-stack, para poder criar aplicações completas com Front-end e Back-end;
 - 🔭 Atualmente estou trabalhando em projetos freelancer na área de desenvolvimento web;
 - 🌱 Sou graduando em Análise e Desenvolvimento de Sistemas na UNIASSELVI;
-- 🎯 Meu objetivo é me tornar um desenvolvedor Full-stack, para poder criar aplicações completas com Front-end e Back-end;
 - 👯 Estou procurando colaborar em projetos freelancer na parte do Front-end;
 - ⚡ Já sou Engenheiro Civil especializado em Segurança do Trabalho;
 - 📫 Como chegar até mim: 
@@ -13,7 +13,7 @@
 <a href="https://www.twitch.tv/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:lewoaragao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.wa.me.com/5585997972854" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+<a href="https://www.wa.me/5585997972854" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div> 
 
 ### Ferramentas e Tecnologias

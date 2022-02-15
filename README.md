@@ -1,4 +1,5 @@
-### Olá, seja bem vindo(a) ao meu perfil 👋
+## Olá, me chamo Leonardo Aragão 😄
+### Seja bem vindo(a) ao meu perfil 👋
 
 - 🔭 Atualmente estou trabalhando em projetos freelancer na área de desenvolvimento web;
 - 🌱 Sou graduando em Análise e Desenvolvimento de Sistemas na UNIASSELVI;

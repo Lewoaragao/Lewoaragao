@@ -20,3 +20,9 @@
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<div>
+<a href="https://github.com/lewoaragao">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni"/><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+</div>

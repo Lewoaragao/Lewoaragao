@@ -7,7 +7,7 @@
 - 🔭 Atualmente estou trabalhando em projetos freelancer na área de desenvolvimento web;
 - 🌱 Sou graduando em Análise e Desenvolvimento de Sistemas na UNIASSELVI;
 - 👯 Estou procurando colaborar em projetos freelancer na parte do Front-end;
-- ⚡ Já sou Engenheiro Civil especializado em Segurança do Trabalho;
+- ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
 - 📫 Como chegar até mim: 
 <div>
 <a href="https://www.youtube.com/channel/UC7EMWRYjwIHENTrqjXLUjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

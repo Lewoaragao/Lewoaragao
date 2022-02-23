@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=flat-square)
 
-# Olá, me chamo Leonardo Aragão 😄
+> # Olá, me chamo Leonardo Aragão 😄 <br>
 > ## Seja bem vindo(a) ao meu perfil 👋
 
 <br>
@@ -21,6 +21,8 @@
 </div> 
 
 <br>
+
+![](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
 
 ## Ferramentas e Tecnologias
 <div>
@@ -58,3 +60,4 @@
 
 <br>
   
+![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)

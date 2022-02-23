@@ -12,17 +12,21 @@
 - ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
 - 📫 Como chegar até mim: 
 
-<div>
+<div align="center">
 <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.wa.me/5585997972854" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 <a href="https://www.twitter.me/lewoaragao1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div> 
-
 <br>
 
+<div align="center">
+
 ![](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
+
+</div>
+
 
 ## Ferramentas e Tecnologias
 <div>
@@ -45,6 +49,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+<br>
+<img src="https://cdn-icons.flaticon.com/png/128/3475/premium/3475761.png?token=exp=1645655300~hmac=7826821287bc5af350660540a00a23f3" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </div>
 
 <br>
@@ -55,9 +64,13 @@
 <a href="https://github.com/lewoaragao">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
 <br>
-<!-- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
 </div>
 
 <br>
   
+<div align="center">
+  
 ![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
+  
+</div>

@@ -58,4 +58,3 @@
 
 <br>
   
-> <img src="https://img.shields.io/github/followers/lewoaragao?style=social"> <img src="https://img.shields.io/twitter/follow/lewoaragao1?style=social">

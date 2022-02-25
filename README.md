@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=flat-square)
 
-> # Olá, me chamo Leonardo Aragão 😄 <br>
-> ## Seja bem vindo(a) ao meu perfil 👋
+> # Olá, me chamo Leonardo Aragão <img src="https://c.tenor.com/WXJXOkgr5FoAAAAi/smiley-emoji.gif" width=30> <br>
+> ## Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
+> ## <a href="https://www.lewoaragao.com.br">Meu site 🌐</a>
 
 <br>
 

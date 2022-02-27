@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=flat-square)
 
-> # Olá, me chamo Leonardo Aragão <img src="https://c.tenor.com/WXJXOkgr5FoAAAAi/smiley-emoji.gif" width=30> <br>
-> ## Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
-> ## <a href="https://www.lewoaragao.com.br">Meu site 🌐</a>
+> # Olá, me chamo Leonardo Aragão <img src="https://c.tenor.com/WXJXOkgr5FoAAAAi/smiley-emoji.gif" width=40> <br>
+> ## Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=40>
+> ## <a href="https://www.lewoaragao.com.br">Meu site <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=40></a>
 
 <br>
 
@@ -59,7 +59,11 @@
 
 <br>
 
-## Estatísticas GitHub
+
+
+## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
+
+
 
 <div>
 <a href="https://github.com/lewoaragao">

@@ -4,6 +4,7 @@
 > ## Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=40>
 > ## <a href="https://www.lewoaragao.com.br">Meu site <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=40></a>
 
+
 <br>
 
 - 🎯 Meu objetivo é me tornar um desenvolvedor **Full-stack**, para poder criar aplicações completas com Front-end e Back-end;
@@ -51,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 <br>
-<img src="https://cdn-icons.flaticon.com/png/128/3475/premium/3475761.png?token=exp=1645655300~hmac=7826821287bc5af350660540a00a23f3" width="40" height="40"/>
+<img src="https://cdn-icons.flaticon.com/png/512/3475/premium/3475761.png?token=exp=1646328980~hmac=6abd8ed206958f4acdb32309d670bb2e" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -79,3 +80,5 @@
 ![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<div align="center"><span>Meu usário nas redes sociais: Lewoaragao</span></div>

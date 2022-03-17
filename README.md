@@ -52,7 +52,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 <br>
-<img src="https://cdn-icons.flaticon.com/png/512/3339/premium/3339134.png?token=exp=1646591442~hmac=5a7e5b9866205043b96538049e0bcc58" width="40" height="40"/>
+  
+<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="40" height="40" alt="Logo kanbam"/>
 <img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -60,13 +61,10 @@
 
 <br>
 
-
-
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 
-
-
 <div>
+  
 <a href="https://github.com/lewoaragao">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
 <br>

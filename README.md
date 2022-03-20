@@ -62,7 +62,7 @@
 <br>
 
 ## Desafios Front-end Mentor
-<li><a href="https://lewoaragao.com.br/projetos/gerador-de-conselhos/" target="_blank">Gerador de Conselhos</a></li>
+<li><a href="https://lewoaragao.com.br/projetos/gerador-de-conselhos/">Gerador de Conselhos</a></li>
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 

@@ -15,11 +15,11 @@
 - 📫 Como chegar até mim: 
 
 <div align="center">
-<a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5585997972854" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
-<a href="https://www.twitter.com/lewoaragao1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+<a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 </div> 
 <br>
 
@@ -32,6 +32,19 @@
 
 ## Ferramentas e Tecnologias
 <div>
+  
+  DESIGN UX / UI <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  
+  BANCO DE DADOS <br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  
+  INGLÊS
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+  
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -90,4 +103,10 @@
   
 </div>
 
-<div align="center"><span>Meu usário nas redes sociais: Lewoaragao.</span></div>
+
+<div align="center">
+
+  ![GitHub followers](https://img.shields.io/github/followers/lewoaragao?style=social)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/lewoaragao1?style=social)
+  
+</div>

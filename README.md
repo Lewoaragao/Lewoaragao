@@ -113,12 +113,9 @@
 <br>
 
 ## Front-end Mentor [![Netlify Status](https://api.netlify.com/api/v1/badges/0d520988-c3e0-4abc-8db9-3d57e7b6713d/deploy-status)](https://desafios-front-end-mentor.netlify.app/)
-<details>
-<summary>✔️ Desafios concluídos</summary>
-<br> 
-<li><a href="https://lewoaragao.com.br/projetos/gerador-de-conselhos/">Gerador de Conselhos</a></li>
-</details>
-
+<div>
+  <a href="https://desafios-front-end-mentor.netlify.app/">Desafios concluídos ✔️</a>
+  </div>
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 

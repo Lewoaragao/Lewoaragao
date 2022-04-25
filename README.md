@@ -65,21 +65,21 @@
 </details>
   
 <details>
-<summary>🔑 Ferramentas de versionamento</summary>
+<summary>🔑 Versioning tools</summary>
 <br> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </details>
   
 <details>
-<summary>🗂 Bancos de dados</summary>
+<summary>🗂 Database</summary>
 <br> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </details>
 
 <details>
-<summary>📚 Estudo</summary>
+<summary>📚 Study</summary>
 <br> 
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
@@ -106,9 +106,17 @@
 <details>
 <summary>⌛ Metodológias ágeis</summary>
 <br> 
-<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="20" height="20"/> Kanbam
+<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="20" height="20"/> Scrum
 </details> 
+  
+  <details>
+<summary>📦 Office pack</summary>
+<br> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+</details>
 
 <br>
 

@@ -103,14 +103,21 @@
 <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 </details> 
   
+ <details>
+<summary>☁️ Cloud</summary>
+<br> 
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</details> 
+  
 <details>
 <summary>⌛ Metodológias ágeis</summary>
 <br> 
-<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="20" height="20"/> Kanbam
-<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="20" height="20"/> Scrum
+<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="30" height="30"/> <img src="https://img.shields.io/badge/-Kanban-blue?style=for-the-badge">
+<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="30" height="30"/> <img src="https://img.shields.io/badge/-Scrum-orange?style=for-the-badge">
 </details> 
   
-  <details>
+ <details>
 <summary>📦 Office pack</summary>
 <br> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">

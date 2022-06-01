@@ -7,10 +7,10 @@
 
 <br>
 
-- 🎯 Meu objetivo é me tornar um desenvolvedor **Full-stack**, para poder criar aplicações completas com Front-end e Back-end;
-- 🔭 Atualmente estou trabalhando em projetos freelancer na área de **desenvolvimento web**;
+- 🎯 Meu objetivo é me tornar um desenvolvedor **Full-stack** ainda melhor;
+- 🔭 Atualmente estou trabalhando como **Programador de Sistemas**;
 - 🌱 Sou graduando em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
-- 👯 Estou procurando colaborar em projetos freelancer na parte do Front-end;
+- 👯 Estou procurando colaborar em projetos freelance ou open source;
 - ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
 - 📫 Como chegar até mim: 
 

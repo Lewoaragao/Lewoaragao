@@ -7,7 +7,7 @@
 
 <br>
 
-- 🎯 Meu objetivo é me tornar um desenvolvedor **Full-Stack** cada vez melhor;
+- 🎯 Meu objetivo é me tornar um **Programador Full-Stack** cada vez melhor;
 - 🔭 Atualmente estou trabalhando como **Programador de Sistemas**;
 - 🌱 Sou graduando em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
 - 👯 Estou procurando colaborar em projetos freelance ou open source;

@@ -2,7 +2,7 @@
 
 > ### Olá, me chamo Leonardo Aragão<img src="https://c.tenor.com/WXJXOkgr5FoAAAAi/smiley-emoji.gif" width=40> <br>
 > ### Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=40>
-> ### <a href="https://www.lewoaragao.com.br">Meu site <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=40></a>
+> ### <a href="https://www.lewoaragao.com.br">Meu site</a> <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=40>
 
 
 <br>

@@ -79,11 +79,13 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </details>
 
 <details>
 <summary>📚 Study</summary>
 <br> 
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">  
@@ -95,9 +97,9 @@
 <summary>🖥️ IDEs</summary>
 <br> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </details> 
   
 <details>
@@ -119,8 +121,8 @@
 <details>
 <summary>⌛ Agile methodologies</summary>
 <br> 
-<img src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" width="30" height="30"/> <img src="https://img.shields.io/badge/-Kanban-blue?style=for-the-badge">
-<img src="https://cdn.iconscout.com/icon/free/png-64/scrum-2-458188.png" width="30" height="30"/> <img src="https://img.shields.io/badge/-Scrum-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Kanban-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Scrum-orange?style=for-the-badge">
 </details> 
 
 <details>
@@ -133,6 +135,7 @@
 <details>
 <summary>📦 Office pack</summary>
 <br> 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
@@ -141,10 +144,9 @@
 
 <br>
 
-## Front-end Mentor [![Netlify Status](https://api.netlify.com/api/v1/badges/0d520988-c3e0-4abc-8db9-3d57e7b6713d/deploy-status)](https://desafios-front-end-mentor.netlify.app/)
-<div>
-  <a href="https://desafios-front-end-mentor.netlify.app/">Desafios concluídos ✔️</a>
-  </div>
+## Projetos em desenvolvimento
+- [App de Tarefas 📋](https://lewoaragao.github.io/APP-DE-TAREFAS/)
+- [Desafios concluídos ✔️](https://desafios-front-end-mentor.netlify.app/)
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 

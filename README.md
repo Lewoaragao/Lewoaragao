@@ -147,7 +147,7 @@
 <br>
 
 ## Projetos em desenvolvimento
-- [App de Eventos]  (eventos-app-lca.herokuapp.com/)
+- [App de Eventos](https://eventos-app-lca.herokuapp.com/)
 - [App de Tarefas 📋](https://lewoaragao.github.io/APP-DE-TAREFAS/)
 - [Desafios concluídos ✔️](https://desafios-front-end-mentor.netlify.app/)
 

@@ -148,8 +148,8 @@
 
 ## Projetos em desenvolvimento
 - [App de Eventos](https://eventos-app-lca.herokuapp.com/)
-- [App de Tarefas 📋](https://lewoaragao.github.io/APP-DE-TAREFAS/)
-- [Desafios concluídos ✔️](https://desafios-front-end-mentor.netlify.app/)
+- [App de Tarefas](https://lewoaragao.github.io/APP-DE-TAREFAS/)
+- [Desafios concluídos](https://desafios-front-end-mentor.netlify.app/)
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 

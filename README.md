@@ -148,7 +148,7 @@
 <br>
 
 ## Projetos em desenvolvimento
-- [To do list em PHP]([https://lewoaragao.github.io/APP-DE-TAREFAS/](https://lewoaragao.com.br/projetos/to-do-list-php-mysql/))
+- [To do list em PHP](https://lewoaragao.com.br/projetos/to-do-list-php-mysql/)
 - [Desafios concluídos do Front-end Mentor](https://desafios-front-end-mentor.netlify.app/)
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>

@@ -1,10 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=flat-square)
 
-> ### Olá, me chamo Leonardo Aragão<img src="https://c.tenor.com/WXJXOkgr5FoAAAAi/smiley-emoji.gif" width=40> <br>
-> ### Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=40>
-> ### <a href="https://www.lewoaragao.com.br">Meu site</a> <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=40>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=F8B1FF)
 
+Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
+<br>
+<a href="https://www.lewoaragao.com.br">Meu portfólio</a> <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
+<hr>
 <br>
 
 - 🎯 Meu objetivo é me tornar um **Programador Full-Stack** cada vez melhor;
@@ -145,19 +147,12 @@
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 </details>
 
-<br>
-
-## Projetos em desenvolvimento
-- [To do list em PHP](https://lewoaragao.com.br/projetos/to-do-list-php-mysql/)
-- [Desafios concluídos do Front-end Mentor](https://desafios-front-end-mentor.netlify.app/)
-
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
 
 <div>
   
 <a href="https://github.com/lewoaragao">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
 </div>
 </a>

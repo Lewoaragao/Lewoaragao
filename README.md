@@ -6,11 +6,10 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <br>
 <a href="https://www.lewoaragao.com.br">Meu portfólio</a> <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
-<hr>
-<br>
+## Sobre mim
 
-- 🎯 Meu objetivo é me tornar um **Programador Full-Stack** cada vez melhor;
-- 🔭 Atualmente estou trabalhando como **Programador de Sistemas**;
+- 🎯 Meu objetivo é me tornar um **Desenvolvedor Full-Stack** cada vez melhor;
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor de Sistemas**;
 - 🌱 Sou graduando em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
 - 👯 Estou procurando colaborar em projetos freelance ou open source;
 - ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
@@ -25,14 +24,18 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 </div> 
 <br>
 
-<div>
+<div align="center">
 
 ![](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
 
 </div>
 
 
+## Projeto em desenvolvimento
+- Desenvolvendo back-end com Spring Boot a [API de carrinho de compras](https://github.com/IgorBavand/fullstack_project).
+
 ## Ferramentas e Tecnologias
+
 <div>
   
 <details>
@@ -147,7 +150,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 </details>
 
-## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
+## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
 
 <div>
   

@@ -37,10 +37,11 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 </div>
 
 
-## Projeto em desenvolvimento
+## Projetos em desenvolvimento
 
-- Back-end com Spring Boot a [API de carrinho de compras](https://github.com/IgorBavand/fullstack_project).
-- Back-end com Spring Boot a [API do gerenciador de tarefas](https://github.com/Lewoaragao/task-manager).
+[![Card API carrinho de compras](https://github-readme-stats.vercel.app/api/pin/?username=lewoaragao&repo=fullstack_project)](https://github.com/lewoaragao/fullstack_project)
+
+[![Card API do gerenciador de tarefas](https://github-readme-stats.vercel.app/api/pin/?username=lewoaragao&repo=task-manager)](https://github.com/lewoaragao/task-manager)
 
 ## Ferramentas e Tecnologias
 

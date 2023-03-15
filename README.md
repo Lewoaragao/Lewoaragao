@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=lewoaragao&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=for-the-badge)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=F8B1FF)
 
@@ -16,25 +16,24 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 - 📫 Como chegar até mim: 
 
 <div align="center">
-  
-  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-
+  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 </div> 
 
 <br />
 
 <div align="center">
 
-[](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
+![Gif tecnologia](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
 
 </div>
 
 
 ## Projeto em desenvolvimento
+
 - Back-end com Spring Boot a [API de carrinho de compras](https://github.com/IgorBavand/fullstack_project).
 - Back-end com Spring Boot a [API do gerenciador de tarefas](https://github.com/Lewoaragao/task-manager).
 
@@ -161,20 +160,12 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
 
-  </div>
+</div>
   
 <br />
   
 <div align="center">
   
-  ![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/lewoaragao?style=social)
-  ![Twitter followers](https://img.shields.io/twitter/follow/lewoaragao1?style=social)
+  ![Snake GIF](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
   
 </div>

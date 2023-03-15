@@ -1,6 +1,10 @@
-![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=for-the-badge)
+<div align="center">
+  
+  ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=for-the-badge)
+  
+</div>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=F8B1FF)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=FFF)
 
 Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 <br />
@@ -157,8 +161,8 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF" height="180em"/>
 
 </div>
   

@@ -1,38 +1,42 @@
-![](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=lewoaragao&color=blue&style=for-the-badge)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=F8B1FF)
 
 Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
-<br>
-<a href="https://www.lewoaragao.com.br">Meu portfólio</a> <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
+<br />
+[Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
 ## Sobre mim
 
 - 🎯 Meu objetivo é me tornar um **Desenvolvedor Full-Stack** cada vez melhor;
 - 🔭 Atualmente estou trabalhando como **Desenvolvedor de Sistemas**;
 - 🌱 Sou graduando em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
-- 👯 Estou procurando colaborar em projetos freelance ou open source;
+- 👯 Estou sempre procurando colaborar em projetos freelance ou open source;
 - ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
 - 📫 Como chegar até mim: 
 
-<div>
-<a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-<a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<div align="center">
+  
+  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+
 </div> 
-<br>
+
+<br />
 
 <div align="center">
 
-![](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
+[](https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif)
 
 </div>
 
 
 ## Projeto em desenvolvimento
-- Desenvolvendo back-end com Spring Boot a [API de carrinho de compras](https://github.com/IgorBavand/fullstack_project).
+- Back-end com Spring Boot a [API de carrinho de compras](https://github.com/IgorBavand/fullstack_project).
+- Back-end com Spring Boot a [API do gerenciador de tarefas](https://github.com/Lewoaragao/task-manager).
 
 ## Ferramentas e Tecnologias
 
@@ -152,26 +156,25 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
 
-<div>
+<div align="center">
   
-<a href="https://github.com/lewoaragao">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
-</div>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&theme=omni" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
+
+  </div>
   
-<br>
+<br />
   
 <div align="center">
   
-![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 
 <div align="center">
-
+  
   ![GitHub followers](https://img.shields.io/github/followers/lewoaragao?style=social)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/lewoaragao1?style=social)
+  ![Twitter followers](https://img.shields.io/twitter/follow/lewoaragao1?style=social)
   
 </div>

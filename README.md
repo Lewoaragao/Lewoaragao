@@ -2,10 +2,11 @@
   
   ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=for-the-badge)
   
-</div>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=FFF)
 
+</div>
+  
 Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 <br />
 [Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>

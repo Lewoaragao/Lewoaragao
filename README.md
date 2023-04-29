@@ -40,7 +40,9 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
   
-[![Card API carrinho de compras](https://github-readme-stats.vercel.app/api/pin/?username=lewoaragao&repo=fullstack_project&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF)](https://github.com/lewoaragao/fullstack_project) [![Card API do gerenciador de tarefas](https://github-readme-stats.vercel.app/api/pin/?username=lewoaragao&repo=task-manager&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF)](https://github.com/lewoaragao/task-manager)
+Fiquem a vontade para contribuir nesse projeto open-source, trata-se de um sistema de adoção de Pet.
+  
+[![Card API carrinho de compras](https://github-readme-stats.vercel.app/api/pin/?username=adotapetorg&repo=adotapetorg-front-end&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF)](https://github.com/adotapetorg/adotapetorg-front-end) [![Card API carrinho de compras](https://github-readme-stats.vercel.app/api/pin/?username=adotapetorg&repo=adotapetorg-back-end&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF)](https://github.com/adotapetorg/adotapetorg-back-end)
 
 </div>
 

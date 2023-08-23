@@ -23,7 +23,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <div align="center">
   <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--   <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
   <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
   <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 </div> 

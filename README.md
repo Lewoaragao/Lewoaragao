@@ -1,31 +1,30 @@
 <div align="center">
   
-  ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=blueviolet&style=for-the-badge)
+  ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=3cb371&style=for-the-badge)
   
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:20C2F3,100:5F069F&animation=twinkling&fontColor=FFF)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:2c2c2c,100:3cb371F&animation=twinkling&fontColor=3cb371)
 
 </div>
   
-Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
-<br />
-[Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
+### Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
+### [Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
 ## Sobre mim
 
 - 🎯 Meu objetivo é me tornar um **Desenvolvedor Full-Stack** cada vez melhor;
 - 🔭 Atualmente estou trabalhando como **Desenvolvedor de Sistemas**;
-- 🌱 Sou graduando em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
-- 👯 Estou sempre procurando colaborar em projetos freelance ou open source;
-- ⚡ Tenho uma graduação em Engenharia Civil e pós-graduaçação em Segurança do Trabalho;
+- 🌱 Irei me formar em Dezembro de 2024 em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
+- 👯 Estou sempre procurando colaborar em projetos tanto Freelance quanto Open Source;
+- ⚡ Tenho graduação em Engenharia Civil e pós-graduaçação em Engenharia de Segurança do Trabalho;
 - 📫 Como chegar até mim: 
 
 <div align="center">
-  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<!--   <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-blueviolet?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-3cb371?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-3cb371?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 </div> 
 
 <br />
@@ -156,8 +155,8 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&bg_color=8a2be2&title_color=FFF&text_color=FFF&icon_color=FFF&border_color=FFF" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=2c2c2c&title_color=3cb371&text_color=3cb371&icon_color=3cb371&border_color=FFF" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&bg_color=2c2c2c&title_color=3cb371&text_color=3cb371&icon_color=3cb371&border_color=FFF" height="180em"/>
 
 </div>
   

@@ -159,11 +159,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&bg_color=2c2c2c&title_color=3cb371&text_color=3cb371&icon_color=3cb371&border_color=FFF" height="180em"/>
 
 </div>
-  
-<br />
-  
-<div align="center">
-  
-  ![Snake GIF](https://github.com/Lewoaragao/Lewoaragao/blob/output/github-contribution-grid-snake.svg)
-  
-</div>

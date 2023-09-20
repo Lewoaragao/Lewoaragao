@@ -3,7 +3,7 @@
   ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=3cb371&style=for-the-badge)
   
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:2c2c2c,100:3cb371F&animation=twinkling&fontColor=3cb371)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:2e2e2e,100:3cb371F&animation=twinkling&fontColor=3cb371)
 
 </div>
   
@@ -154,8 +154,8 @@
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=2c2c2c&title_color=3cb371&text_color=3cb371&icon_color=3cb371&border_color=FFF" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&bg_color=2c2c2c&title_color=3cb371&text_color=3cb371&icon_color=3cb371&border_color=FFF" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
 
 </div>

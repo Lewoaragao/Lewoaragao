@@ -7,8 +7,9 @@
 
 </div>
   
-### Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
-### [Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
+Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
+
+[Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
 ## Sobre mim
 

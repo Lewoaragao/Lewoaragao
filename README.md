@@ -160,3 +160,11 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
 
 </div>
+
+## Troféus
+
+<div align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=lewoaragao" alt="lewoaragao" />
+	</a>
+</div>

@@ -9,12 +9,12 @@
   
 Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 
-[Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
+<!-- [Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30> -->
 
 ## Sobre mim
 
-- 🎯 Meu objetivo é me tornar um **Desenvolvedor Full-Stack** cada vez melhor;
-- 🔭 Atualmente estou trabalhando como **Desenvolvedor de Sistemas**;
+- 🎯 Meu objetivo é me tornar um **Desenvolvedor Backend Sênior** e trabalhar somente com o ecossitema **Spring**;
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor Full-Stack Pleno** utilizando _Java Server Faces (JSF)_ no Frontend e Java no Backend;
 - 🌱 Irei me formar em Dezembro de 2024 em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
 - 👯 Estou sempre procurando colaborar em projetos tanto Freelance quanto Open Source;
 - ⚡ Tenho graduação em Engenharia Civil e pós-graduaçação em Engenharia de Segurança do Trabalho;
@@ -25,7 +25,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
   <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-3cb371?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+  <!-- <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a>  -->
 </div> 
 
 <br />
@@ -161,10 +161,11 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 </div>
 
-## Troféus
+<!-- ## Troféus
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=lewoaragao" alt="lewoaragao" />
 	</a>
 </div>
+-->

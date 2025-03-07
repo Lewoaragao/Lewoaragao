@@ -13,8 +13,8 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 ## Sobre mim
 
-- 🎯 Meu objetivo é me tornar um **Desenvolvedor Backend Sênior** e trabalhar somente com o ecossitema **Spring**;
-- 🔭 Atualmente estou trabalhando como **Desenvolvedor Pleno** utilizando _Java Server Faces (JSF)_ no Frontend e Java no Backend;
+- 🎯 Meu objetivo é me tornar um **Desenvolvedor Backend Sênior** e trabalhar com o ecossitema **Spring**;
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor Java Pleno**;
 - 🌱 Irei me formar em Dezembro de 2024 em **Análise e Desenvolvimento de Sistemas na UNIASSELVI**;
 - 👯 Estou sempre procurando colaborar em projetos freelance, open-source ou só pra ajudar a comunidade BR;
 - ⚡ Curiosidade sobre mim: Tenho graduação em Engenharia Civil e pós-graduaçação em Engenharia de Segurança do Trabalho;
